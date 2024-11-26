@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A Importância do Inglês</title>
+  <style>
+      body {
+          font-family: Arial, sans-serif;
+          background-color: #f0f0f0; /* Cinza claro */
+          margin: 0;
+          padding: 20px;
+      }
+      main {
+          background-color: #fff;
+          padding: 20px;
+          border-radius: 8px;
+          box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      }
+      h1 {
+          color: #00796b; /* Verde escuro */
+      }
+      h3 {
+          color: #555;
+      }
+      ul {
+          margin: 10px 0;
+          padding-left: 20px;
+      }
+      footer {
+          text-align: center;
+          margin-top: 20px;
+      }
+      img {
+          max-width: 100%;
+          height: auto;
+      }
+  </style>
+</head>
+<body>
+
+<main>
+<h1>A Importância do Inglês no Mundo</h1>
+<div class="PRIMEIROPARAGRAFO">
+  <h3>Por que aprender inglês?</h3>
+  <p><i><b>O inglês é considerado a língua universal e é falado por milhões de pessoas ao redor do mundo.</b></i></p>
+  <ul id="lista02">
+    <li>Facilita a comunicação internacional.</li>
+    <li>É a língua predominante em negócios e comércio.</li>
+    <li>É essencial para acesso a informações e tecnologia.</li>
+    <li>Abre portas para oportunidades de trabalho e estudo no exterior.</li>
+  </ul>
+</div>
+<h1>*</h1>
+</main>
+
+<footer>
+<p>
+  <img id="TITULOIMAGEM" src="logo.jpeg" alt="Descrição da Imagem">
+</p>
+</footer>
+
+</body>
+</html>
